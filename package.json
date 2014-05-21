@@ -1,0 +1,18 @@
+{
+  "author": "@mobileraj1",
+  "name": "LiveUsers",
+  "description": "view users as they login",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.2"
+  },
+  "dependencies": {
+		"socket.io" : ">=0.8.7",
+                "follow" : ">=0.10.4"
+
+},
+  "devDependencies": {}
+}
